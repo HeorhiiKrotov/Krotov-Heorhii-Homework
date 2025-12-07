@@ -36,3 +36,12 @@ body {
     flex-direction: row;
     gap: 20px;
 }
+#image-1 {
+    border: 5px solid gray;
+    border-radius: 20%;
+    transform: translateY(-100px);
+}
+#image-2 {
+    border: 5px solid gray;
+    border-radius: 20%;
+}
